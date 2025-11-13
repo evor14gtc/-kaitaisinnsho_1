@@ -13,6 +13,7 @@ public class UserApplicationService {
 		genderMap.put("男性", 1);
 		genderMap.put("女性", 2);
 		return genderMap;
+		
 	}
 
 }
