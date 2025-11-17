@@ -21,7 +21,6 @@ public class UserApplicationService {
 		genderMap.put(female,2);
 		return genderMap;
 		
-		
 	}
 
 }
